@@ -1,0 +1,16 @@
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\bin\Debug\net6.0-windows\psarac_Sarac_Pelinsu.exe
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\bin\Debug\net6.0-windows\psarac_Sarac_Pelinsu.deps.json
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\bin\Debug\net6.0-windows\psarac_Sarac_Pelinsu.runtimeconfig.json
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\bin\Debug\net6.0-windows\psarac_Sarac_Pelinsu.dll
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\bin\Debug\net6.0-windows\psarac_Sarac_Pelinsu.pdb
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.Form1.resources
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.csproj.GenerateResource.cache
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.AssemblyInfoInputs.cache
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.AssemblyInfo.cs
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.csproj.CoreCompileInputs.cache
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.dll
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\refint\psarac_Sarac_Pelinsu.dll
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.pdb
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\psarac_Sarac_Pelinsu.genruntimeconfig.cache
+C:\Users\pelinsusarac2\Desktop\SENIOR\CS 408\lab-codes\psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu\obj\Debug\net6.0-windows\ref\psarac_Sarac_Pelinsu.dll

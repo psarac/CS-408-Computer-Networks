@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "psarac_Sarac_Pelinsu", "psarac_Sarac_Pelinsu\psarac_Sarac_Pelinsu.csproj", "{0F225BD2-47E8-4C05-98D4-E64D9EEBD335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F225BD2-47E8-4C05-98D4-E64D9EEBD335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F225BD2-47E8-4C05-98D4-E64D9EEBD335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F225BD2-47E8-4C05-98D4-E64D9EEBD335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F225BD2-47E8-4C05-98D4-E64D9EEBD335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B48A527-2CCD-4E36-B9C0-93677F570C44}
+	EndGlobalSection
+EndGlobal

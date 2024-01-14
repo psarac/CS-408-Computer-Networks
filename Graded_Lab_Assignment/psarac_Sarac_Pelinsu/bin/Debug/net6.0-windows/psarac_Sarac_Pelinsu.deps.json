@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "psarac_Sarac_Pelinsu/1.0.0": {
+        "runtime": {
+          "psarac_Sarac_Pelinsu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "psarac_Sarac_Pelinsu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
